@@ -29,7 +29,7 @@ local soundMapping = {
     Z = "rbxasset://KeyboardSounds/key3.wav",
 
     Space = "rbxasset://KeyboardSounds/space1.wav",
-    Return       = "rbxasset://KeyboardSounds/ent.wav",
+    Return = "rbxasset://KeyboardSounds/ent.wav",
     Backspace = "rbxasset://KeyboardSounds/back.wav",
     LeftShift = "rbxasset://KeyboardSounds/shift.wav",
     RightShift = "rbxasset://KeyboardSounds/rshift.wav",
@@ -101,7 +101,6 @@ end
 
 UserInputService.InputBegan:Connect(function(input, isProcessed)
     if not isProcessed then
-        local keyName = input.KeyCode.Name
-        playSound(keyName)
+        playSound(input.KeyCode.Name)
     end
 end)
