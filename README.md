@@ -17,3 +17,5 @@ The reason I created this is that my mechanical keyboard broke a long time ago, 
 For the best experience, I recommend downloading sound files from [Mechvibes](https://mechvibes.com/sound-packs/) and pasting them into the **KeyboardSounds** folder. Use files named `key1`, `key2`, `key3`, `key4`, etc., as the script references these names.  
 
 Enjoy the satisfying sound of your custom mechanical keyboard setup!
+
+My current using one: [SoundPack](https://mechvibes.com/sound-packs/custom-sound-pack-1203000000076/)
