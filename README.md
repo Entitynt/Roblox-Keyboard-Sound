@@ -12,6 +12,8 @@ The reason I created this is that my mechanical keyboard broke a long time ago, 
    (Note: Usually, only one version folder contains files.)  
 3. Inside the **content** folder, create a new folder named **"KeyboardSounds"**.  
 
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitynt/Roblox-Keyboard-Sound/refs/heads/main/Main.lua",true))()```
+
 ### Recommended Sound Files  
 
 For the best experience, I recommend downloading sound files from [Mechvibes](https://mechvibes.com/sound-packs/) and pasting them into the **KeyboardSounds** folder. Use files named `key1`, `key2`, `key3`, `key4`, etc., as the script references these names.  
