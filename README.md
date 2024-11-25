@@ -19,3 +19,6 @@ For the best experience, I recommend downloading sound files from [Mechvibes](ht
 Enjoy the satisfying sound of your custom mechanical keyboard setup!
 
 My current using one: [SoundPack](https://mechvibes.com/sound-packs/custom-sound-pack-1203000000076/)
+
+## Video
+https://streamable.com/46j1dd
